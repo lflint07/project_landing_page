@@ -1,0 +1,28 @@
+@media screen and (max-width: 600px) {
+    #footer {
+        display: none;
+    }
+}
+
+#header {
+    background-color: red;
+    display: flex;
+}
+
+.nav-bar {
+    display: inline;
+    position: fixed;
+}
+
+#header-img {
+    max-height: 50px;
+    max-width: auto;
+}
+
+#email {
+    background-color: blue;
+}
+
+#footer {
+    background-color: purple;
+}
